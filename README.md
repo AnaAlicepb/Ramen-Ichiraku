@@ -57,8 +57,8 @@
     <a href="https://ramen-ichiraku.vercel.app" target="_blank">
         <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
     </a>
-    <span style="vertical-align: middle;">Clique para acessar o projeto</span>
         </li>
+        <p>Acesse o projeto na vercel</p>
     </ul>
 </section>
 
