@@ -52,8 +52,14 @@
 <section id="contato">
     <h2>Contato</h2>
     <ul>
-        <li><a href="https://linktr.ee/anaeanali5" target="_blank"><img src="https://img.shields.io/badge/Ana_Alice_Rodrigues-blue?style=for-the-badge" alt="Perfil de Ana Alice Rodrigues"></a></li>
-        <li><a href="https://ramen-ichiraku.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Hospedado na Vercel"></a> clique para acessar o projeto</li>
+        <li><a href="https://linktr.ee/anaeanali5" target="_blank"><img src="https://img.shields.io/badge/Ana_Alice_Rodrigues-blue?style=for-the-badge" alt="Perfil de Ana Alice Rodrigues"></a></li> <br>
+        <li>
+    <a href="https://ramen-ichiraku.vercel.app" target="_blank">
+        <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel">
+    </a>
+    <span style="vertical-align: middle;">Clique para acessar o projeto</span>
+</li>
+
     </ul>
 </section>
 
